@@ -21,7 +21,7 @@
 
 #set page(header: context [
   #set par(leading : 0.4em, spacing : 0.4em);
-  Algebra Lineal #h(33%) Guia X #h(33%) Pagina #counter(page).display() #h(0em) #line(length: 100%)
+  Tema #h(33%) Guia X #h(33%) Pagina #counter(page).display() #h(0em) #line(length: 100%)
   ]
   )
 
